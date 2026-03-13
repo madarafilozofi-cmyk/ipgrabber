@@ -1,0 +1,23 @@
+2026-03-13_13-24-40 - [+] Real IP: [-] Error: HTTPSConnectionPool(host='https', port=443): Max retries exceeded with url: /sarandaweb.net/ (Caused by NameResolutionError("HTTPSConnection(host='https', port=443): Failed to resolve 'https' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13_13-24-40 - [+] Geolocation: [-] Error: 404 Client Error: Not Found for url: https://ipapi.co/%5B-%5D%20Error:%20HTTPSConnectionPool(host='https',%20port=443):%20Max%20retries%20exceeded%20with%20url:%20/sarandaweb.net/%20(Caused%20by%20NameResolutionError(%22HTTPSConnection(host='https',%20port=443):%20Failed%20to%20resolve%20'https'%20(%5BErrno%2011001%5D%20getaddrinfo%20failed)%22))/json/
+2026-03-13_13-24-53 - [+] Real IP: 104.21.3.226
+2026-03-13_13-24-53 - [+] Geolocation: [-] Error: 429 Client Error: Too Many Requests for url: https://ipapi.co/104.21.3.226/json/
+2026-03-13_13-24-53 - [+] DNS Records: [-] Could not resolve DNS records.
+2026-03-13_13-24-53 - [+] HTTP Headers: [-] Error: Invalid URL 'sarandaweb.net': No scheme supplied. Perhaps you meant https://sarandaweb.net?
+2026-03-13_13-24-53 - [+] SSL Info: [-] Error: Invalid URL 'sarandaweb.net': No scheme supplied. Perhaps you meant https://sarandaweb.net?
+2026-03-13_13-26-14 - [+] Real IP: [-] Error: HTTPSConnectionPool(host='https', port=443): Max retries exceeded with url: /www.frymaedashurise.org/shkolla-9-vjecare-fryme-dashurie-gj (Caused by NameResolutionError("HTTPSConnection(host='https', port=443): Failed to resolve 'https' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13_13-26-14 - [+] Geolocation: [-] Error: 404 Client Error: Not Found for url: https://ipapi.co/%5B-%5D%20Error:%20HTTPSConnectionPool(host='https',%20port=443):%20Max%20retries%20exceeded%20with%20url:%20/www.frymaedashurise.org/shkolla-9-vjecare-fryme-dashurie-gj%20(Caused%20by%20NameResolutionError(%22HTTPSConnection(host='https',%20port=443):%20Failed%20to%20resolve%20'https'%20(%5BErrno%2011001%5D%20getaddrinfo%20failed)%22))/json/
+2026-03-13_13-26-47 - [+] Real IP: [-] Error: [Errno 11001] getaddrinfo failed
+2026-03-13_13-26-47 - [+] Geolocation: [-] Error: 404 Client Error: Not Found for url: https://ipapi.co/%5B-%5D%20Error:%20%5BErrno%2011001%5D%20getaddrinfo%20failed/json/
+2026-03-13_13-27-14 - [+] Real IP: 185.230.63.186
+2026-03-13_13-27-14 - [+] Geolocation: [-] Error: 429 Client Error: Too Many Requests for url: https://ipapi.co/185.230.63.186/json/
+2026-03-13_13-27-14 - [+] DNS Records: ('unalocated.63.wixsite.com', [], ['185.230.63.186'])
+2026-03-13_13-27-14 - [+] HTTP Headers: [-] Error: Invalid URL 'frymaedashurise.org': No scheme supplied. Perhaps you meant https://frymaedashurise.org?
+2026-03-13_13-27-14 - [+] SSL Info: [-] Error: Invalid URL 'frymaedashurise.org': No scheme supplied. Perhaps you meant https://frymaedashurise.org?
+2026-03-13_13-30-19 - [+] Real IP: 185.230.63.186
+2026-03-13_13-30-19 - [+] Geolocation: [-] Error: 429 Client Error: Too Many Requests for url: https://ipapi.co/185.230.63.186/json/
+2026-03-13_13-30-19 - [+] DNS Records: ('unalocated.63.wixsite.com', [], ['185.230.63.186'])
+2026-03-13_13-30-19 - [+] HTTP Headers: [-] Error: Invalid URL 'frymaedashurise.org': No scheme supplied. Perhaps you meant https://frymaedashurise.org?
+2026-03-13_13-30-19 - [+] SSL Info: [-] Error: Invalid URL 'frymaedashurise.org': No scheme supplied. Perhaps you meant https://frymaedashurise.org?
+2026-03-13_14-13-36 - [+] Real IP: [-] Error: HTTPSConnectionPool(host='dwwdww', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='dwwdww', port=443): Failed to resolve 'dwwdww' ([Errno 11001] getaddrinfo failed)"))
+2026-03-13_14-13-36 - [+] Geolocation: [-] Error: 404 Client Error: Not Found for url: https://ipapi.co/%5B-%5D%20Error:%20HTTPSConnectionPool(host='dwwdww',%20port=443):%20Max%20retries%20exceeded%20with%20url:%20/%20(Caused%20by%20NameResolutionError(%22HTTPSConnection(host='dwwdww',%20port=443):%20Failed%20to%20resolve%20'dwwdww'%20(%5BErrno%2011001%5D%20getaddrinfo%20failed)%22))/json/
